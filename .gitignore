@@ -1,0 +1,12 @@
+# Object files and libraries
+*.o
+*.a
+*.so
+
+# Executables
+Estrutura_dados/Linked_list
+Estrutura_dados/Ring_buffer
+Estrutura_dados/Hash_table/Hash_table
+forca/forca
+Jogodavelha_C/jogodavelha
+snake/snake
